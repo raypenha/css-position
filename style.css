@@ -1,0 +1,50 @@
+.relative {
+  position: relative;
+  border: 1px solid red;
+  max-width: 700px;
+  height: 70vh;
+}
+
+.absolute_1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  /* bottom: 0; */
+  /* right: 0; */
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+}
+
+.absolute_2 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  /* bottom: 0; */
+  /* right: 0; */
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+}
+
+.absolute_3 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  /* bottom: 0; */
+  /* right: 0; */
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+}
+
+.absolute_4 {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  /* bottom: 0; */
+  /* right: 0; */
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+}
